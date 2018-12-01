@@ -1,0 +1,17 @@
+{
+  "name": "advent-of-code-2018",
+  "version": "1.0.0",
+  "description": "My AoC 2018 solutions.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrfaanKhalid/advent-of-code-2018.git"
+  },
+  "author": "Irfaan Khalid",
+  "bugs": {
+    "url": "https://github.com/IrfaanKhalid/advent-of-code-2018/issues"
+  },
+  "homepage": "https://github.com/IrfaanKhalid/advent-of-code-2018#readme"
+}
