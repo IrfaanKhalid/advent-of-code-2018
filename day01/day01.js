@@ -1,7 +1,7 @@
 const fs = require("fs");
 
-let day1a = () => {
-  let filename = "./input/day1.txt";
+let day01a = () => {
+  let filename = "./input/day01.txt";
 
   fs.readFile(filename, "utf8", function(err, data) {
     if (err) {
@@ -21,8 +21,8 @@ let day1a = () => {
   });
 };
 
-let day1b = () => {
-  let filename = "./input/day1.txt";
+let day01b = () => {
+  let filename = "./input/day01.txt";
 
   fs.readFile(filename, "utf8", function(err, data) {
     if (err) {
@@ -53,5 +53,5 @@ let day1b = () => {
   });
 };
 
-day1a();
-day1b();
+day01a();
+day01b();
