@@ -32,7 +32,7 @@ public class day11 {
       }
     }
 
-    System.out.println(Arrays.toString(xy));
+    System.out.println(xy[0] + "," + xy[1]);
   }
 
   private static void day11b(int[][] grid) {
@@ -61,7 +61,7 @@ public class day11 {
       }
     }
 
-    System.out.println(Arrays.toString(xy) + " " + size);
+    System.out.println(xy[0] + "," + xy[1] + "," + size);
   }
 
   private static int[][] generateGrid(int serialNumber) {
